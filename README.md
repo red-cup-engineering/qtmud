@@ -13,7 +13,7 @@ earlier Racket and Fennel source is archived in the parent section's
 `lib/legacy/`.
 
 This repository is qtMUD's one home. It is mounted at `apps/qtmud/` of
-[Computer MUD Engineering Services Section](https://github.com/red-cup-engineering/computer-mud-engineering-services-section),
+[Computer MUD Engineering Services Section](https://github.com/red-cup-engineering/computer-mud-systems-engineering-services-section),
 beside MOOSE.
 
 ## Earlier work
